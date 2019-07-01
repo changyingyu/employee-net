@@ -1,0 +1,14 @@
+/Users/yingyuchang/Projects/employeeEzra/employeeEzra/bin/Debug/netcoreapp2.1/employeeEzra.deps.json
+/Users/yingyuchang/Projects/employeeEzra/employeeEzra/bin/Debug/netcoreapp2.1/employeeEzra.runtimeconfig.json
+/Users/yingyuchang/Projects/employeeEzra/employeeEzra/bin/Debug/netcoreapp2.1/employeeEzra.runtimeconfig.dev.json
+/Users/yingyuchang/Projects/employeeEzra/employeeEzra/bin/Debug/netcoreapp2.1/employeeEzra.dll
+/Users/yingyuchang/Projects/employeeEzra/employeeEzra/bin/Debug/netcoreapp2.1/employeeEzra.pdb
+/Users/yingyuchang/Projects/employeeEzra/employeeEzra/obj/Debug/netcoreapp2.1/employeeEzra.csprojAssemblyReference.cache
+/Users/yingyuchang/Projects/employeeEzra/employeeEzra/obj/Debug/netcoreapp2.1/employeeEzra.csproj.CoreCompileInputs.cache
+/Users/yingyuchang/Projects/employeeEzra/employeeEzra/obj/Debug/netcoreapp2.1/employeeEzra.RazorAssemblyInfo.cache
+/Users/yingyuchang/Projects/employeeEzra/employeeEzra/obj/Debug/netcoreapp2.1/employeeEzra.RazorAssemblyInfo.cs
+/Users/yingyuchang/Projects/employeeEzra/employeeEzra/obj/Debug/netcoreapp2.1/employeeEzra.AssemblyInfoInputs.cache
+/Users/yingyuchang/Projects/employeeEzra/employeeEzra/obj/Debug/netcoreapp2.1/employeeEzra.AssemblyInfo.cs
+/Users/yingyuchang/Projects/employeeEzra/employeeEzra/obj/Debug/netcoreapp2.1/employeeEzra.RazorTargetAssemblyInfo.cache
+/Users/yingyuchang/Projects/employeeEzra/employeeEzra/obj/Debug/netcoreapp2.1/employeeEzra.dll
+/Users/yingyuchang/Projects/employeeEzra/employeeEzra/obj/Debug/netcoreapp2.1/employeeEzra.pdb
